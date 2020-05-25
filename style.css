@@ -5,7 +5,15 @@ h1  {
        font-family: verdana;
        margin-bottom: 5px;
     }
-p {
+p1{
+       text-align: center;
+       font-size: 10pt;
+       color: #000000;
+       font-family: courier;
+       margin-bottom: 6px;
+}
+
+p2{
        text-align: center;
        font-size: 10pt;
        color: #000000;
