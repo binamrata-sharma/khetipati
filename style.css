@@ -19,3 +19,12 @@ p { text-align: center;
        margin-bottom: 6px;
 }
 
+.fullscreenDiv {
+    background-color: #e8e8e8;
+    width: 100%;
+    height: auto;
+    bottom: 0px;
+    top: 0px;
+    left: 0;
+    position: absolute;
+}
