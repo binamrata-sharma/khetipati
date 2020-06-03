@@ -3,10 +3,10 @@ body, html {
   margin: 0;
 }
 
-.middle {
-  position: center;
-  top: 50%;
-  left: 100%;
-  color: #FFFFFF;
-  text-align: center;
+p{
+       text-align: center;
+       font-size: 14pt;
+       color: #FFFFF;
+       font-family: "Courier New", Courier, monospace;
+       margin-bottom: 6px;
 }
