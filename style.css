@@ -1,13 +1,13 @@
 
 
 h1  {
-       text-align:center;
+       text-align:absolute;
        font-size: 30pt;
        color: #FFFFFF;
        font-family: garamond;
        margin-bottom: 5px;
     }
-p { text-align: center;
+p { text-align: absolute;
        font-size: 14pt;
        color:#FFFFFF;
        font-family:courier;
