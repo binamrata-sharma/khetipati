@@ -3,12 +3,11 @@ body, html {
   margin: 0;
 }
 
-
 .middle {
   position: center;
   top: 50%;
   left: 50%;
   color: white;
-  transform: translate(-50%, -50%);
+  
   text-align: center;
 }
