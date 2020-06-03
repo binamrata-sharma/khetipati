@@ -2,11 +2,17 @@ body, html {
   height: 100%;
   margin: 0;
 }
-
-p{
+h1  {
        text-align: center;
+       font-size: 30pt;
+       color: #000000;
+       font-family: verdana;
+       margin-bottom: 5px;
+    }
+
+p      text-align: center;
        font-size: 14pt;
-       color:#00000;
+       color:#000000;
        font-family:courier;
        margin-bottom: 6px;
 }
