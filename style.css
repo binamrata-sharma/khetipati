@@ -6,7 +6,7 @@ body, html {
 p{
        text-align: center;
        font-size: 14pt;
-       color: #FFFFF;
-       font-family: "Courier New", Courier, monospace;
+       color:#00000;
+       font-family:courier;
        margin-bottom: 6px;
 }
